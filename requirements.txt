@@ -2,5 +2,4 @@ google-api-python-client
 pandas
 numpy
 seaborn
-plotly
 jupyter
