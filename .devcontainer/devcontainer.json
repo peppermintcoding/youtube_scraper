@@ -2,7 +2,7 @@
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "settings": {
     "workbench.colorTheme": "SynthWave '84",
-    "editor-fontSize": 15,
+    "editor-fontSize": 18,
     "editor.cursorStyle": "block",
     "git.autofetch": true,
     "workbench.action.configureLocale": "en"
